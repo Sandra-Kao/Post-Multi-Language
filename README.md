@@ -14,4 +14,6 @@
 透過伺服器存取翻譯文件(DB, Json, Api ...)，並將所有頁面資訊連同翻譯資料送回用戶請求端。
 
 值得注意的是，有時候其實可以部份混用，(雖然理想上不建議，但沒有一個長久運行維護下的專案是理想的)，但也要小心挑選的工具。
-前後端搭配不協調的案例，如(Why Use Server Side Rendering To Boost Performance and User Experience? https://www.topsinfosolutions.com/blog/server-side-rendering-boost-performance-user-experience/) React.js / Vue.js 較 Angular.js 能配合自己的後端選染
+前後端搭配不協調的案例，如(Why Use Server Side Rendering To Boost Performance and User Experience? https://www.topsinfosolutions.com/blog/server-side-rendering-boost-performance-user-experience/) React.js / Vue.js 較 Angular.js 能配合自己的後端選染。
+
+
