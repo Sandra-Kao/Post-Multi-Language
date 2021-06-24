@@ -1,3 +1,23 @@
+
+--------------
+目錄:
+
+  1. [Home](/Post-Multi-Language.md)
+  
+  2. [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
+  
+      1.  [Front-End i18n](/front-end-i18n.md)
+    
+          1. [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
+      
+          2. [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
+      
+      2. [Back End Resource File](/back-end-resource-file.md)
+    
+          1. [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
+
+--------------
+
 ### [專案1] 前端 i18n
 
 有些相對靜態(或說單純)的頁面或專案，非常適合用前端技術實作。
