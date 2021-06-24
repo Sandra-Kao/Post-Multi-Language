@@ -1,4 +1,4 @@
-# Visual Studio Extension - ResXManager <img src="https://tomenglert.gallerycdn.vsassets.io/extensions/tomenglert/resxmanager/1.53.4233.0/1620293971563/Microsoft.VisualStudio.Services.Icons.Default" alt="ResXManager" width="40" height="40" border=".1" />
+# Multi-Language Development
 
 ## Abstract
 
