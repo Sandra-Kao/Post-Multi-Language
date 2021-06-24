@@ -7,6 +7,8 @@
 既然是前端專案，當然會選用前端多國語技術選染文字啦。
 這個專案是用跟 Vue.js 互相配合的 [Vue-i18n](https://kazupon.github.io/vue-i18n/introduction.html "Vue-i18n 的官方網站")，
 
+### Vue-i18n
+
 只要在畫面上 ``` @import``` Vue-i18n，搭配指定形式 tag ```$t{ }```，就能做到輸入
 
 ```HTML javascript
