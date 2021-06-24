@@ -1,4 +1,24 @@
 
+--------------
+目錄:
+
+  1. [Home](/Post-Multi-Language.md)
+  
+  2. [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
+  
+      1.  [Front-End i18n](/front-end-i18n.md)
+    
+          1. [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
+      
+          2. [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
+      
+      2. [Back End Resource File](/back-end-resource-file.md)
+    
+          1. [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
+
+--------------
+
+
 ### [專案2] 後端 Resource File
 我手上的另個是 .Net MVC + Vue.js 專案，頁面要做多國語的時候是選用類似 [MVCL pattern](https://webocreation.com/blog/code-flow-request-response-mvcl-pattern-opencart/ "出自 OpenCart 一書") 的架構，以 [MVC Resource File](https://www.ryadel.com/en/setup-a-multi-language-website-using-asp-net-mvc/ "Set up Resource File") 的形式[儲存和處理字串](https://www.c-sharpcorner.com/article/asp-net-mvc-using-resource-files-to-manage-string-constants/ "MS 官方文件")，前端就用 @Razor 語法糖選染文字。
 
