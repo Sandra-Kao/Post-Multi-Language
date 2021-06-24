@@ -6,7 +6,16 @@
 這是 Resource File 檔案打開之後的樣子，就像一份 DB table，
 只是每個頁面，每個語系，分別都是不同的table。
 
-![image](https://user-images.githubusercontent.com/63223781/123197236-d1580680-d4dd-11eb-80f2-6729a703c12c.png)
+![image](https://user-images.githubusercontent.com/63223781/123208613-066e5400-d4f2-11eb-9777-1052a2c11ebe.png)
+
+#### HTML
+以 Razor 渲染 Resource File 儲存的文字
+
+![image](https://user-images.githubusercontent.com/63223781/123196843-35c69600-d4dd-11eb-8425-e2a373a5ad13.png)
+
+
+### 插件推薦
+#### Visual Studio Extension - ResXManager <img src="https://tomenglert.gallerycdn.vsassets.io/extensions/tomenglert/resxmanager/1.53.4233.0/1620293971563/Microsoft.VisualStudio.Services.Icons.Default" alt="ResXManager" width="20" height="20" border=".1" />
 
 如果你的網站有5個語系，有8頁要翻譯，就會有 5 * 8 = 共 40 個 Resource File 翻譯檔要維護。
 操作起來需要一筆筆 key in，會有點辛苦。
@@ -23,17 +32,8 @@
 編號2區塊，就會統整篩選結果，而且會一次呈現出所有的語言對照，不需要每個語言各別打開。
 值得一提的是，
 可以看到編號3，他還可以讓你匯出/匯入整份 Excel，
-  
-![image](https://user-images.githubusercontent.com/63223781/123197949-e1bcb100-d4de-11eb-9788-35bdb8eb580b.png)
-
 這樣就可以先把 HTML 文字洞挖好，然後隨時可以提供 User Excel檔。只要翻譯完，就算只有部分翻譯，也成馬上匯入上線！
 
-
-
-#### HTML
-以 Razor 渲染 Resource File 儲存的文字
-
-![image](https://user-images.githubusercontent.com/63223781/123196843-35c69600-d4dd-11eb-8425-e2a373a5ad13.png)
 
 
 [Back to Home >](/Post-Multi-Language.md)
