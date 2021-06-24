@@ -1,5 +1,24 @@
 # Multi-Language Development
 
+目錄:
+
+  - [Home](/Post-Multi-Language.md)
+  
+  - [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
+  
+    - [Front-End i18n](/front-end-i18n.md)
+    
+      - [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
+      
+      - [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
+      
+    - [Back End Resource File](/back-end-resource-file.md)
+    
+      - [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
+
+
+
+--------------
 ## Abstract
 
 專案中對於多國語言程式開發( Internationalization, i18n )在不同團隊有不同的做法，最簡單二分法分類是前端/後端渲染的翻譯。
@@ -25,8 +44,10 @@
 
 我自己手上的專案中做多國語的方式有兩種，前端 i18n 跟 後端 Resource File。
 
- [專案1] 前端 i18n  [Go to Front-End i18n >](/front-end-i18n.md)
+ #### [專案1] 前端 i18n 
+ [Go to Front-End i18n >](/front-end-i18n.md)
 
- [專案2] 後端 Resource File  [Go to Back-End Resource File >](/back-end-resource-file.md)
+ #### [專案2] 後端 Resource File 
+ [Go to Back-End Resource File >](/back-end-resource-file.md)
 
 
