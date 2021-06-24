@@ -39,6 +39,7 @@
 
 如果你的網站有5個語系，有8頁要翻譯，就會有 5 * 8 = 共 40 個 Resource File 翻譯檔要維護。
 操作起來需要一筆筆 key in，會有點辛苦。
+
 所以這邊推薦大家如果也是用 Resource File 做翻譯的話，可以安裝 [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager "下載位置")
 插件。
 這個插件的評價一直都滿好的，使用的這幾年來也會隨著 Visual Studio 不斷的版更，還不錯。
