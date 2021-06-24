@@ -2,19 +2,19 @@
 
 目錄:
 
-  - [Home](/Post-Multi-Language.md)
+  1. [Home](/Post-Multi-Language.md)
   
-  - [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
+  2. [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
   
-    - [Front-End i18n](/front-end-i18n.md)
+      1.  [Front-End i18n](/front-end-i18n.md)
     
-      - [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
+          1. [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
       
-      - [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
+          2. [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
       
-    - [Back End Resource File](/back-end-resource-file.md)
+      2. [Back End Resource File](/back-end-resource-file.md)
     
-      - [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
+          1. [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
 
 
 
