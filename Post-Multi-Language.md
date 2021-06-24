@@ -1,5 +1,6 @@
 # Multi-Language Development
 
+--------------
 目錄:
 
   1. [Home](/Post-Multi-Language.md)
@@ -16,9 +17,9 @@
     
           1. [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
 
-
-
 --------------
+
+
 ## Abstract
 
 專案中對於多國語言程式開發( Internationalization, i18n )在不同團隊有不同的做法，最簡單二分法分類是前端/後端渲染的翻譯。
