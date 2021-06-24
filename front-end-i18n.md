@@ -17,18 +17,22 @@
 </div>
 ``` 
 
-變成 
+執行輸出變成 
 ```HTML
 <div id="app">
   <p>登入</p>
 </div>
 ``` 
 
-這部份各大前端框架已經說很多了，只要關鍵字搜尋 "Vue.js i18n" 就不多贅述。
+這部份各大前端框架已經說很多了，只要關鍵字搜尋 "Vue.js i18n" 就可以找到很多文章，這邊不多贅述。
 
 而維護的文檔可能會長這樣。
+英文
 
 ![image](https://user-images.githubusercontent.com/63223781/123192965-7e2e8580-d4d6-11eb-9c82-e4301ab9eeff.png)
+
+繁中
+
 ![image](https://user-images.githubusercontent.com/63223781/123188523-bfbb3280-d4ce-11eb-8763-58bb1ac8baea.png)
 
 
