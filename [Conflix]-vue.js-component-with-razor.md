@@ -1,3 +1,23 @@
+
+--------------
+目錄:
+
+  1. [Home](/Post-Multi-Language.md)
+  
+  2. [Case Study](/Post-Multi-Language.md#多國語言程式開發案例分享)
+  
+      1.  [Front-End i18n](/front-end-i18n.md)
+    
+          1. [Tips, Conflix and Solution](/front-end-i18n.md#tips-conflix-and-solution)
+      
+          2. [[Conflix] Vue.js component with Razor](%5BConflix%5D-vue.js-component-with-razor.md)
+      
+      2. [Back End Resource File](/back-end-resource-file.md)
+    
+          1. [Visual Studio Extension - ResXManager](/back-end-resource-file.md#visual-studio-extension---resxmanager-)
+
+--------------
+
 ### [Conflix] Vue.js component with Razor
 在一個 MVC + Vue.js 的專案架構下，就會出現前端渲染的技術混用或是技術衝突的情形。在 HTML 上遇到 Razor 跟 Vue.js 打架的時候，這時候身為開發者難道只能選邊站嗎?
 
