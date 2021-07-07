@@ -39,7 +39,7 @@
 值得注意的是，有時候其實可以前後端部份混用，(雖然理想上不建議，但沒有一個長久運行維護下的專案是理想的)，但也要小心挑選的工具。
 由某CEO分享的前後端搭配不協調的[案例](https://www.topsinfosolutions.com/blog/server-side-rendering-boost-performance-user-experience/ "暗指 React.js 較 Angular.js 能配合自己的後端選染")。
 
---------------
+-------------
 
 ## 多國語言程式開發案例分享
 
